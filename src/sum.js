@@ -3,7 +3,6 @@ function sum(a, b) {
     throw new TypeError("nums only");
   }
 
-  console.log("testing log");
   return a + b;
 }
 
